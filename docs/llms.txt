@@ -1,0 +1,21 @@
+# DocuForge AI
+
+> A documentation-first development platform with powerful AI assistance that enables efficient product development through structured documentation and LLMs.txt generation.
+
+DocuForge AI revolutionizes product development by implementing a documentation-first approach with AI assistance. It enables individual developers or small teams to build complete products efficiently by creating beautiful, structured documentation that doubles as product specifications.
+
+## Required
+
+- [Architecture Overview](./architecture/README.md): Comprehensive overview of DocuForge AI's modular architecture and components
+- [Getting Started](./getting-started.md): Installation instructions and quick start guide for new users
+- [LLMs.txt Format](./llms-txt-format.md): Detailed explanation of the LLMs.txt format and how DocuForge AI implements it
+- [Key Features](./README.md): Overview of the platform's core capabilities and benefits
+
+## Optional
+
+- [User Guide](./user-guide/README.md): Detailed instructions for using all aspects of the platform
+- [Components](./components/README.md): Documentation for individual components that make up the system
+- [API Reference](./api/README.md): Programmatic access to DocuForge AI functionality
+- [Contributing](./contributing.md): Guidelines for contributing to DocuForge AI development
+- [LLMs.txt Export](./user-guide/llms-txt-export.md): How to generate LLMs.txt files from your documentation
+- [AI Assistance](./user-guide/ai-assistance.md): How to leverage AI for documentation and code generation
