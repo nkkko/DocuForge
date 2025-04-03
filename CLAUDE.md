@@ -25,5 +25,20 @@
 - Maintain clear separation between UI and business logic
 - Utilize the LLMs.txt export functionality for AI-friendly documentation
 
+## Git Workflow
+- Create a new branch for each feature or bug fix: `git checkout -b feature/feature-name`
+- Make atomic, focused commits with descriptive messages
+- Push changes to the remote repository: `git push origin feature/feature-name`
+- Always commit changes after work is completed
+- Create pull requests for code reviews
+- Delete branches after they are merged
+
 ## Repository
-- https://github.com/nkkko/docuforge.git
+- https://github.com/nkkko/DocuForge.git
+
+## AI Assistant Rules
+- Always commit changes after completing assigned work
+- Create a new branch for each new feature implementation
+- Run lint and type checking before committing code
+- Follow documentation-first approach for all features
+- Generate appropriate tests for new functionality
