@@ -12,6 +12,7 @@ This user guide provides comprehensive instructions for using DocuForge AI, a do
 - [AI Assistance](./ai-assistance.md): Leverage AI for documentation and code generation
 - [LLMs.txt Export](./llms-txt-export.md): Create AI-friendly documentation exports
 - [Documentation Publishing](./publishing.md): Generate beautiful static documentation sites
+- [Shape Up Workflow](./shape-up-workflow.md): Implement Shape Up methodology with documentation-first approach
 
 ## Common Workflows
 

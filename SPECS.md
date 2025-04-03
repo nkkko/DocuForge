@@ -1,21 +1,3 @@
-:::thinking
-The request is to add a feature to the MVP (Minimum Viable Product) for DocuForge AI, specifically to add "llms-txt export" functionality. This is related to the /llms.txt file format described in the context, which is a proposal for standardizing how websites provide information to help LLMs use the website at inference time.
-
-Let me understand what this feature would entail:
-
-1. The ability to automatically generate an /llms.txt file from the documentation created in DocuForge AI
-2. Following the specific format described in the context: H1 title, blockquote with summary, optional details, and section headers with file lists
-3. Creating links to .md versions of pages for LLM consumption
-4. Potentially creating expanded context files (like llms-ctx.txt and llms-ctx-full.txt as mentioned)
-
-This is a very fitting feature for the DocuForge AI platform since:
-- It's already focused on documentation-first development
-- It already creates markdown content
-- The platform aims to enhance AI integration with documentation
-- It aligns with the goal of making documentation more accessible and useful
-
-I'll add this as a first-class feature to the MVP section, describing the implementation and benefits clearly.
-:::
 # Product Specification: DocuForge AI - Documentation-First Development Platform
 
 ## EXECUTIVE SUMMARY:
@@ -114,7 +96,17 @@ The system follows a client-server architecture with real-time collaboration cap
 - Preview functionality to test LLM comprehension of generated files
 - Integration with documentation deployment pipeline
 
-### 4. Metadata and Versioning (P1)
+### 4. Shape Up Methodology Integration (P0)
+- Documentation as shaping: Templates for pitches, scopes, and hill charts
+- Six-week cycle management with documentation tracking
+- Betting table interface for reviewing and selecting pitched documentation
+- Scope management with visual hill chart representation
+- Documentation-based progress tracking
+- Automatic cycle reports and documentation summaries
+- Integration between shaped documentation and implementation tracking
+- Cool-down period documentation refinement tools
+
+### 5. Metadata and Versioning (P1)
 - Implementation status tagging (Not Started, In Progress, Implemented)
 - Version tagging to track when features were implemented
 - Feature owner assignment
