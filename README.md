@@ -1,5 +1,7 @@
 # DocuForge AI
 
+![DocuForge AI - Documentation-First Development Platform](./assets/images/docuforge.png)
+
 A documentation-first development platform with powerful AI assistance.
 
 ## Overview
